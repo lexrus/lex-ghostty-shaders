@@ -49,7 +49,7 @@ Restart Ghostty (or reload its config) for the change to take effect. You can co
 
 ### Tip: keep this repo as your shaders folder
 
-If you'd like this repo to *be* your Ghostty shaders directory, you can symlink it:
+If you'd like this repo to _be_ your Ghostty shaders directory, you can symlink it:
 
 ```sh
 # Back up any existing shaders folder first, then:
@@ -81,7 +81,7 @@ Edit the values in the `.glsl` file and reload Ghostty — no recompilation step
 
 You might also like my other apps.
 
-### [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829) (iOS, macOS)
+### 💸 [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829) (iOS, macOS)
 
 Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.
 
